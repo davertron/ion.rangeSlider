@@ -1,12 +1,12 @@
 {
-    "name": "ion-rangeslider",
-    "version": "2.1.2",
-    "description": "Cool, comfortable and easily customizable range slider with many options and skin support",
-    "homepage": "http://ionden.com/a/plugins/ion.rangeSlider/en.html",
+    "name": "ion-rangeslider-umd",
+    "version": "1.0",
+    "description": "Fork of ion.rangeSlider with UMD support",
+    "homepage": "https://github.com/davertron/ion.rangeSlider",
     "author": {
-        "name": "Denis Ineshin (IonDen)",
-        "email": "ionden.tech@gmail.com",
-        "url": "https://github.com/IonDen"
+        "name": "David Davis (davertron)",
+        "email": "dabukun@gmail.com",
+        "url": "https://github.com/daverton"
     },
     "keywords": [
         "jquery-plugin",
@@ -21,7 +21,8 @@
         "diapason",
         "ui",
         "noui",
-        "skins"
+        "skins",
+        "UMD"
     ],
     "main": "./js/ion.rangeSlider.js",
     "directories": {
@@ -29,10 +30,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/IonDen/ion.rangeSlider.git"
-    },
-    "bugs": {
-        "url": "https://github.com/IonDen/ion.rangeSlider/issues"
+        "url": "git://github.com/davertron/ion.rangeSlider"
     },
     "license": "MIT",
     "dependencies": {
@@ -45,7 +43,6 @@
         "ion-rangeSlider.jquery.json",
         "readme.ru.md"
     ],
-
     "spm": {
         "main": "js/ion.rangeSlider.js",
         "dependencies": {
