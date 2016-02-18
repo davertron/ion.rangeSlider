@@ -1,6 +1,6 @@
 {
     "name": "ion-rangeslider-umd",
-    "version": "1.0",
+    "version": "1.0.0",
     "description": "Fork of ion.rangeSlider with UMD support",
     "homepage": "https://github.com/davertron/ion.rangeSlider",
     "author": {
