@@ -12,7 +12,7 @@
 .irs-bar,
 .irs-bar-edge,
 .irs-slider {
-    background: url(../img/sprite-skin-modern.png) repeat-x;
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAAC0CAMAAABFa6L5AAAAP1BMVEUAAADr7fDLztTAw8ogtCbQ09wgtCavs7sgtCbR1uAgtCb///+vs7vy8vL6+vq/w8jq6uudo6pUU1Pf4OSnq7LGlxnBAAAACXRSTlMAO/yEuwb37h5FOTJkAAABYElEQVR42u3ZTXKjMBCAUQFxMop+bXz/sw44nqnKLgtn1e91wQG+ElrQqVJTJosgggj/pUJJAAAAAAAAr3LZPmpoH9slbSPHto4trTm8IULOaypzz7HtJV1KeJcEAAAAAADwKp98iiCCCCJ8iwAAAAAAAMAL/Xl7t5t5s6BK6V0EJ8GdAAAAAAAAwC9Z1iVFt4wxoldYRu45+FlY1lxKiV1hWddejlkjV8hng35WyCms0Uo/lTZSWKP/EzlC620c00OfBBGeEaYIIojwiPAUPUJvPfhJmL2d+gwcYVtnO811S3Ft40vkBgAAAD+11MDbp6flfr9Hr7DcRx/BKxwNSikj9Bex1NrLMTVyhVGfW+ka+B/jdT630vOawrq23ls/X7EjtNu8tegR5u2Y2BHmEWE/IoS+E0Q4I7RHhBY8QpvHiNCOJ3SEvbVHhj1whK3u87TXyBvZ7folcgMAAIAf+AtxIcIEmjgMVQAAAABJRU5ErkJggg==) repeat-x;
 }
 
 .irs {

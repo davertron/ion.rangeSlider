@@ -12,7 +12,7 @@
 .irs-bar,
 .irs-bar-edge,
 .irs-slider {
-    background: url(../img/sprite-skin-simple.png) repeat-x;
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAAC0BAMAAACAm0/4AAAAKlBMVEUAAABKnp0pdoXejDAOMEAROksVRVsXR2GWbUT6qEtjvLxQp6VAmKc2jqeQeyhMAAAAAXRSTlMAQObYZgAAAOpJREFUeNrt2DESwVAUheGzBTMqVEahtwKGUocdsAVbsAWlVqJIK1ZgUqpMshe0aUyqc5P5vxX83XvnamynpZ22djrY6Winnp0AAAAAoKEIy3qyNFtostpabRZ67Q5W+7X6u6PVfs6yBgAAANBGYzud7TSzi5BwsmNZAwAAAGij+sw1mNZmrsG0tjH/62RCbeYaMHMBAAAAtND1S15Jnt/VCAk/nUzIMnfCpXgM5JWOiqe80oIEKS3Lt7xuVUVChIQALyUAAAguwH8hwK+JhChThoQYCRf/iSPJh/4E/62JhBgJAV5KAAAQ2wefe/8nmmkF1wAAAABJRU5ErkJggg==) repeat-x;
 }
 
 .irs {
